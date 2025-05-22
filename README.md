@@ -1,8 +1,4 @@
 # DePINed BOT
-DePINed BOT
-
-- Register Here : [DePINed](https://app.depined.org/onboarding)
-- Use Code : rWSNJoETWJkx
 
 ## Features
 
