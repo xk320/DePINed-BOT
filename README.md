@@ -6,15 +6,15 @@
 
 ## Instalation
 
-1. **Clone The Repositories:**
+1. **克隆仓库:**
    ```bash
-   git clone https://github.com/vonssy/DePINed-BOT.git
+   https://github.com/xk320/DePINed-BOT.git
    ```
    ```bash
    cd DePINed-BOT
    ```
 
-2. **Install Requirements:**
+2. **安装依赖:**
    ```bash
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
