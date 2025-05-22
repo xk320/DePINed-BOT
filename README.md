@@ -2,7 +2,7 @@
 
 ## Requiremnets
 
-- Make sure you have Python3.9 or higher installed and pip.
+- 确保已安装 Python3.9 或更高版本以及 pip。
 
 ## Instalation
 
