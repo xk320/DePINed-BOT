@@ -35,9 +35,9 @@
   ]
   ```
 
-- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+- **proxy.txt：项目目录中找到文件 proxy.txt 。proxy.txt格式的示例：:
   ```bash
-    ip:port # Default Protcol HTTP.
+    ip:port # 默认 HTTP代理.
     protocol://ip:port
     protocol://user:pass@ip:port
   ```
