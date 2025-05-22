@@ -19,9 +19,9 @@
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
 
-## Configuration
+## 配置
 
-- **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
+- **在项目目录中找到文件 accounts.json 。accounts.json 格式示例：:
   ```bash
   [
       {
@@ -42,7 +42,7 @@
     protocol://user:pass@ip:port
   ```
 
-## Run
+## 运行
 
 ```bash
 python bot.py #or python3 bot.py
